@@ -29,7 +29,7 @@
     "email": "benisrae@amazon.com"
   },
   "devDependencies": {
-    "constructs": "2.0.1",
+    "constructs": "2.0.2",
     "standard-version": "^8.0.0",
     "jsii": "^1.5.0",
     "jsii-diff": "^1.5.0",
@@ -51,7 +51,7 @@
     "constructs": "2.0.1"
   },
   "dependencies": {
-    "constructs": "2.0.1",
+    "constructs": "2.0.2",
     "yaml": "^1.9.2"
   },
   "bundledDependencies": [
